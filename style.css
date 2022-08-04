@@ -1,0 +1,31 @@
+h1{
+    font-size:30px;
+    text-align:center;
+}
+
+#main_div{
+    margin:auto;
+    width:50%;
+ 
+}
+
+.html_tags_table{
+    margin:auto;
+}
+
+.html_tags_table td, .html_tags_table th {
+    border:1px solid #ddd;
+    padding:8px;
+}
+
+.html_tags_table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color:black;
+  color: white;
+}
+
+.html_tags_table tr:nth-child(even)
+{
+    background-color: #f2f2f2;}
